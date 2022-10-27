@@ -10,3 +10,7 @@
 1. WAVE - https://www.figma.com/file/G68nfl0LoxIVjJnDuIoi45/WAVE?node-id=0%3A1
 2. Помни - https://www.figma.com/file/U4tGY6P2EXJ6ciQXBAT15E/%D0%9F%D0%9E%D0%9C%D0%9D%D0%98?node-id=0%3A1
 
+# Spotify
+
+Sunrise - https://open.spotify.com/album/2WkFcrfl1S6VlS5abQvYRx
+Darkness - https://open.spotify.com/album/4FvzqCsYQ5MGHM9XqIJaX9
