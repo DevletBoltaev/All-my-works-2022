@@ -12,5 +12,12 @@
 
 # Spotify
 
-Sunrise - https://open.spotify.com/album/2WkFcrfl1S6VlS5abQvYRx
-Darkness - https://open.spotify.com/album/4FvzqCsYQ5MGHM9XqIJaX9
+1. Sunrise - https://open.spotify.com/album/2WkFcrfl1S6VlS5abQvYRx
+![SunriseQR](https://google.nazer-drive.workers.dev/0:/4-Github/DEVLET/Repositories/All-my-works/QR/Sunrise.png)
+
+3. Darkness - https://open.spotify.com/album/4FvzqCsYQ5MGHM9XqIJaX9
+![DarknessQR](https://google.nazer-drive.workers.dev/0:/4-Github/DEVLET/Repositories/All-my-works/QR/Darkness.png)
+
+
+
+
