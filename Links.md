@@ -1,6 +1,6 @@
 #Github 
 
-1. Мой сайт-портфолио - https://github.com/DevletBoltaev/My-Portfolio
+1.Мой сайт-портфолио - https://github.com/DevletBoltaev/My-Portfolio
 2. Проект Nazer - https://github.com/DevletBoltaev/Nazer
 3. ChangeIcon - https://github.com/DevletBoltaev/ChangeIcon
 
